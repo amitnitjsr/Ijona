@@ -1,0 +1,84 @@
+.back{
+    background-color: #1846a1;
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: red;
+    width: 100%;
+    height: 500px;
+    background-image: url('../../Assets/image/Path_1459.png');
+    background-size: cover;
+  }
+
+  .container1 {
+    position: relative;
+    float: right;
+    opacity: 0.2;
+    /* text-align: center; */
+    color: red;
+    width: 50%;
+    height: 500px;
+    background-image: url('../../Assets/image/AdobeStock_101045255_Preview (1).png');
+    background-size: cover;
+  }
+
+  .container2 {
+    position: relative;
+    float: left;
+    opacity: 0.5;
+    text-align: center;
+    color: red;
+    width: 50%;
+    height: 500px;
+    background-color: white;
+  }
+
+  .signin-img{
+    position: relative;
+    float: right;
+    opacity: 0.2;
+    /* text-align: center; */
+    color: red;
+    width: 50%;
+    height: 500px;
+    background-image: url('../../Assets/image/Group 1568.png');
+    background-size: cover;
+  }
+  
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .signin{
+    /* text-align: start; */
+  }
